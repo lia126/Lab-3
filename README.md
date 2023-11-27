@@ -11,8 +11,8 @@ This project is a lab I did that uses the python programming language that will 
 - <b>pycharm</b> 
 
 <h2>Project link</h2>
-
-
+[
+](https://github.com/lia126/Lab-3)
 <!--
  ```diff
 - text in red
