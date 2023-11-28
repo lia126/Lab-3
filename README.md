@@ -8,7 +8,7 @@ This project is a lab I did that uses the python programming language that will 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>pycharm</b> 
+- <b>python in pycharm</b> 
 
 <h2>Project link</h2>
 Go to lab 3
